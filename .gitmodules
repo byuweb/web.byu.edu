@@ -1,0 +1,3 @@
+[submodule "web/themes/custom/byu_web_d8"]
+	path = web/themes/custom/byu_web_d8
+	url = https://github.com/byuweb/byu_web_d8.git
