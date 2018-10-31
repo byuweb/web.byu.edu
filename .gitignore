@@ -22,3 +22,9 @@
 
 # Ignore .env files as they are personal
 /.env
+
+# Ignore private files
+/private
+
+# Ignore c9 files
+/.c9
